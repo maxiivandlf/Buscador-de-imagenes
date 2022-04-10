@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    background-color: #eee;
+    justify-content: center;
+    background: linear-gradient(to right, #870000, #190a05);
+}
+
+.center{
+    column-count: 3;
+    width: 1200px;
+
+}
+
